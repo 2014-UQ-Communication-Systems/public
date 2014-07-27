@@ -1,4 +1,4 @@
-public
+UQ Communication Systems
 ======
 
 Welcome to the Public page for UQ Communication Systems. This page is mainly part of two courses at The University of Queensland: [COMS4105](http://www.uq.edu.au/study/course.html?course_code=COMS4105) (undergraduate level) and [COMS7410](http://www.uq.edu.au/study/course.html?course_code=COMS7410) (masters level).
